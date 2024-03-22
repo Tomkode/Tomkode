@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+  I'm a student at Babes-Bolyai University from Cluj-Napoca, currently studying Computer Science. This is my portofolio with all the personal projects I've been working on since highschool.
+
+
+## Languages used
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tomkode)](https://github.com/Tomkode/github-readme-stats)
+
+
 <!--
 **Tomkode/Tomkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
