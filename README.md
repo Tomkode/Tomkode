@@ -4,8 +4,26 @@
 
 
 ## Languages used
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tomkode)](https://github.com/Tomkode/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tomkode&hide=html,css)](https://github.com/Tomkode/github-readme-stats)
 
+## Projects by category(ordered by importance/complexity)
+
+- Machine Learning
+  1. [Model for car price prediction](https://github.com/Tomkode/CarPricePredictionModel)
+
+- Desktop Apps
+  1. [Reddit Clone](https://github.com/Tomkode/RedditClone)
+  2. [Toy Language Interpreter](https://github.com/Tomkode/University)
+  3. [Currency Converter](https://github.com/Tomkode/Currency-Converter)
+
+- Web Apps
+  1. [Joc de table](https://github.com/Tomkode/Joc-de-table)
+  2. [Chess game](https://github.com/Tomkode/ChessGame)
+  3. [CV App](https://github.com/Tomkode/CV-Application)
+  4. [MPP Project(ongoing)](https://github.com/Tomkode/Proiect_MPP)
+ 
+- Games
+  1. [Geometry Rush](https://github.com/Tomkode/Geometry-Rush)
 
 <!--
 **Tomkode/Tomkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
