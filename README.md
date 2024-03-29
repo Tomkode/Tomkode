@@ -18,9 +18,9 @@
 
 - Web Apps
   1. [Joc de table](https://github.com/Tomkode/Joc-de-table)
-  2. [Chess game](https://github.com/Tomkode/ChessGame)
-  3. [CV App](https://github.com/Tomkode/CV-Application)
-  4. [MPP Project(ongoing)](https://github.com/Tomkode/Proiect_MPP)
+  2. [MPP Project(ongoing)](https://github.com/Tomkode/Proiect_MPP)
+  3. [Chess game](https://github.com/Tomkode/ChessGame)
+  4. [CV App](https://github.com/Tomkode/CV-Application)
  
 - Games
   1. [Geometry Rush](https://github.com/Tomkode/Geometry-Rush)
