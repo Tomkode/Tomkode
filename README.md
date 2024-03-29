@@ -25,6 +25,12 @@
 - Games
   1. [Geometry Rush](https://github.com/Tomkode/Geometry-Rush)
 
+
+## Important Links
+- [LinkedIn](https://www.linkedin.com/in/thomas-daniel-colev-85125b266/)
+- [Pbinfo](https://www.pbinfo.ro/profil/TomKode) - The olympiad training website I used during highschool. It is like LeetCode but with problems in Romanian.
+- [LeetCode](https://leetcode.com/TomKode/)
+- [CodinGame](https://www.codingame.com/profile/240d375d4b842ef6b795b501bf9efce41471224) - Programming challenges website. Achieved top 1000(out of 500k) in Clash of Code
 <!--
 **Tomkode/Tomkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
