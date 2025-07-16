@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-  I'm a student at Babes-Bolyai University from Cluj-Napoca, currently studying Computer Science. This is my portofolio with all the personal projects I've been working on since highschool.
-
-
-## Languages used
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tomkode&hide=html,css)](https://github.com/Tomkode/github-readme-stats)
+  I'm a graduate of Babes-Bolyai University from Cluj-Napoca in the Computer Science field. This is my portofolio with all the personal projects I've been working on since highschool.
 
 ## Projects by category(ordered by importance/complexity)
 
-- Machine Learning
-  1. [Model for car price prediction](https://github.com/Tomkode/CarPricePredictionModel)
+- AI
+  1. [Image Inpainting Using Postconditioned Diffusion Models](https://github.com/Tomkode/Inpainting)
+  2. [Model for car price prediction](https://github.com/Tomkode/CarPricePredictionModel)
 
 - Desktop Apps
   1. [Reddit Clone](https://github.com/Tomkode/RedditClone)
